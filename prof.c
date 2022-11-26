@@ -46,7 +46,7 @@ int main (){
        
     }
 
-    printf("qtd crianca:%i         qtd adultos:%i      ", criancas,adultos);
+    
 
 
     
