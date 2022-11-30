@@ -1,7 +1,7 @@
 # projetoAlgoritmo
 
-## Alunos
+## Alunos:
 
-## Leonardo Ribeiro De Macedo
-## Maria Rafaela Alves Azevedo De Jesus
-## Vinicius Arantes Leão
+# Leonardo Ribeiro De Macedo
+# Maria Rafaela Alves Azevedo De Jesus
+# Vinicius Arantes Leão
