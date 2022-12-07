@@ -4,6 +4,6 @@
 
 ## Alunos:
 
-#### Leonardo Ribeiro De Macedo - Ciência da computação 
-#### Maria Rafaela Alves Azevedo De Jesus - Análise e desenvolvimento de sistemas
-#### Vinicius Arantes Leão - Ciência da computação
+#### Leonardo Ribeiro De Macedo - UC22200681 - Ciência da computação 
+#### Maria Rafaela Alves Azevedo De Jesus - UC22200231 - Análise e desenvolvimento de sistemas
+#### Vinicius Arantes Leão - UC22200223 - Ciência da computação
