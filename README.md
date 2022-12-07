@@ -1,5 +1,7 @@
 # Projeto_Algoritmo
 
+### Projeto final para a disciplina de Algoritmo e programação
+
 ## Alunos:
 
 #### Leonardo Ribeiro De Macedo - Ciência da computação 
